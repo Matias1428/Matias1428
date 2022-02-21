@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matias1428
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python an R
+- 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on some proyects of data science
 
 
